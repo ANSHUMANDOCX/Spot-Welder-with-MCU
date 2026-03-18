@@ -1,0 +1,26 @@
+﻿Index,LCSC#,MPN,Manufacturer,Package,Customer #,Description,RoHS,Quantity,MOQ,Multiple,Unit Price($),Extended Price($),Product Link
+1,C14877,ATMEGA328P-AU,MICROCHIP,TQFP-32(7x7),,AVR 8 Bit 20MHz 23 TQFP-32(7x7) Microcontrollers RoHS,yes,1,1,1,2.3199,2.32,https://www.lcsc.com/product-detail/C14877.html
+2,C2070819,TPS563201DDCT,TI,TSOT-23-6,,Buck Switching Regulator IC Adjustable 0.768V~7V 1 Output 3A TSOT-23-6,yes,5,5,5,0.0959,0.48,https://www.lcsc.com/product-detail/C2070819.html
+3,C7588932,CMPI0640-3R3M,Ceaiya,"SMD,7.2x6.6mm",,"7.2A 3.3uH 8.5A 20mΩ Molded Inductor ±20% SMD,7.2x6.6mm Fixed Inductors RoHS",yes,5,5,5,0.1418,0.71,https://www.lcsc.com/product-detail/C7588932.html
+4,C19712528,ED11305M-FB18.5A10-E20-160-G219,CTR,DIP-5,,-30℃~+80℃ DIP-5 DIP Switches/SIP Switches RoHS,yes,1,1,1,1.4161,1.42,https://www.lcsc.com/product-detail/C19712528.html
+5,C5248080,HS96L03W2C03,HS,-,,"0.96 128x64 SSD1315 chip I2C LCD, OLED, Graphic RoHS",yes,1,1,1,2.1656,2.17,https://www.lcsc.com/product-detail/C5248080.html
+6,C19100591,IRFB7430PBF(UMW),UMW,TO-220,,N-Channel 40V 409A 375W Through Hole TO-220,yes,10,1,1,0.4431,4.43,https://www.lcsc.com/product-detail/C19100591.html
+7,C5295091,5.0SMDJ13A,JSCJ,SMCG,,21.5VC Clamp 232.6A Ipp TVS DIODE SMCG,yes,4,1,1,0.4242,1.70,https://www.lcsc.com/product-detail/C5295091.html
+8,C52138,MCP1407-E/SN,MICROCHIP,SOP-8,,4.5V~18V 6A 6A SOP-8 Gate Drivers RoHS,yes,1,1,1,1.7547,1.75,https://www.lcsc.com/product-detail/C52138.html
+9,C968586,CH340K,WCH,ESSOP-10-150mil-1mm,,USB to serial 2Mbps USB 2.0 ESSOP-10-150mil-1mm Interface Controllers RoHS,yes,1,1,1,0.6221,0.62,https://www.lcsc.com/product-detail/C968586.html
+10,C42428823,RV2-3,JIDC,-,,1.5~2.5 14~16 purple bronze Ring Connectors RoHS,yes,10,10,10,0.0474,0.47,https://www.lcsc.com/product-detail/C42428823.html
+11,C139746,GB/T846-1985 KM3*10,XHHD,-,,"Screws ",-,100,100,100,0.0021,0.21,https://www.lcsc.com/product-detail/C139746.html
+12,C596861,ABM3-16.000MHZ-D2Y-T,ABRACON,SMD5032-2P,,Crystal 16MHz ±20ppm 18pF 40Ω SMD5032-2P,yes,1,1,1,0.5689,0.57,https://www.lcsc.com/product-detail/C596861.html
+13,C4747972,RST1UF50V017,KNSCHA,"SMD,D4xL5.4mm",,1uF ±20% 50V Aluminum Electrolytic Capacitors 2000hrs@105℃,yes,20,20,20,0.0284,0.57,https://www.lcsc.com/product-detail/C4747972.html
+14,C72517,RVT1C471M0810,ROQANG,"SMD,D8xL10.2mm",,470uF ±20% 16V Aluminum Electrolytic Capacitors 2000hrs@105℃,yes,10,10,10,0.0544,0.54,https://www.lcsc.com/product-detail/C72517.html
+15,C14663,CC0603KRX7R9BB104,YAGEO,0603,,100nF ±10% 50V Ceramic Capacitor X7R 0603,yes,100,100,100,0.0028,0.28,https://www.lcsc.com/product-detail/C14663.html
+16,C100042,CC0603KRX7R9BB103,YAGEO,0603,,10nF ±10% 50V Ceramic Capacitor X7R 0603,yes,100,100,100,0.0024,0.24,https://www.lcsc.com/product-detail/C100042.html
+17,C22978,0603WAF3301T5E,UNI-ROYAL,0603,,3.3kΩ ±1% 100mW 0603 Thick Film Resistor,yes,100,100,100,0.0015,0.15,https://www.lcsc.com/product-detail/C22978.html
+18,C2907058,FRC0603F6200TS,FOJAN,0603,,620Ω ±1% 100mW 0603 Thick Film Resistor,yes,100,100,100,0.0013,0.13,https://www.lcsc.com/product-detail/C2907058.html
+19,C22548,RC0603FR-071KL,YAGEO,0603,,100mW 1kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.0013,0.13,https://www.lcsc.com/product-detail/C22548.html
+20,C2930423,FRC1206F30R0TS,FOJAN,1206,,30Ω ±1% 250mW 1206 Thick Film Resistor,yes,100,100,100,0.0034,0.34,https://www.lcsc.com/product-detail/C2930423.html
+21,C2910053,MMSZ4687,JSCJ,SOD-123,,Zener Diode Independent 4.3V 350mW Surface Mount SOD-123,yes,20,20,20,0.0260,0.52,https://www.lcsc.com/product-detail/C2910053.html
+22,C2500,"BAV99,215",Nexperia,SOT-23,,Diode Array 1 Pair Series Connection 100V 215mA Surface Mount SOT-23,yes,20,50,50,0.0168,0.34,https://www.lcsc.com/product-detail/C2500.html
+23,C148214,SMAJ13A,Littelfuse,DO-214AC(SMA),,21.5VC Clamp 18.6A Ipp TVS DIODE DO-214AC(SMA),yes,10,5,5,0.1177,1.18,https://www.lcsc.com/product-detail/C148214.html
+24,C98220,RC0603FR-0710KL,YAGEO,0603,,100mW 10kΩ 75V Thick Film Resistor ±100ppm/℃ ±1% 0603 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.0013,0.13,https://www.lcsc.com/product-detail/C98220.html
+25,C23080,0603WAF5622T5E,UNI-ROYAL,0603,,56.2kΩ ±1% 100mW 0603 Thick Film Resistor,yes,100,100,100,0.0014,0.14,https://www.lcsc.com/product-detail/C23080.html
