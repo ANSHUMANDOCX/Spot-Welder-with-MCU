@@ -4,7 +4,8 @@
 - This is a two PCB Design and made such that one can order the PCB as a whole and has to separate the PCBs by Cutting manually to save cost.
 - It has two Aluminum parts that attach to the PCB since the circuit will be dealing high current of about 400A in a single pulse
 - The pulse timing can be adjusted using the rotary encode and is very simple to use.
-- It has a onboard programmer for the ease of programming the board 
+- It has a onboard programmer for the ease of programming the board
+- The Code is not tested yet on my design
 ## Parts used 
 - IRFB7430 Mosfet
 - Atmega328p as the MCU 
