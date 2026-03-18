@@ -5,6 +5,7 @@
 - It has two Aluminum parts that attach to the PCB since the circuit will be dealing high current of about 400A in a single pulse
 - The pulse timing can be adjusted using the rotary encode and is very simple to use.
 - It has a onboard programmer for the ease of programming the board
+- Flash using Arduino IDE with ATmega328P bootloader and 9600 baud rate
 - The Code is not tested yet on my design
 ## Parts used 
 - IRFB7430 Mosfet
