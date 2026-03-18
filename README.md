@@ -14,6 +14,9 @@
 - ABR-PR-12APBTX90 Amaron 12v 9Ah Battey for high short pulse current
 - 6AWG wire to handle the high current
 - 4010 fan 
+- 2mm solid copper wire
+## Usage guide 
+We need to connect the GND of the Battery from the IN sign and connect to the U shaped aluminium portion followed by the rectangular aluminium block as one of the probes the other probe will the positive terminal of the battery.
 ## PCB Schematic and CAD 
 <img width="1174" height="813" alt="Screenshot 2026-03-18 173154" src="https://github.com/user-attachments/assets/cbb075f6-b4ce-46c3-a354-a777d824c654" />
 <img width="717" height="483" alt="Screenshot 2026-03-18 182859" src="https://github.com/user-attachments/assets/6668426d-fe12-4133-ae64-42253d59d1c6" />
