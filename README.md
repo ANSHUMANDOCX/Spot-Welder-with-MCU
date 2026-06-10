@@ -25,6 +25,17 @@ We need to connect the GND of the Battery from the IN sign and connect to the U 
 <img width="921" height="719" alt="Screenshot 2026-03-19 000851" src="https://github.com/user-attachments/assets/17319b98-9443-44a0-8daa-a78deff73315" />
 <img width="617" height="627" alt="Screenshot 2026-03-18 234639" src="https://github.com/user-attachments/assets/1ee67ee1-f378-4aaa-aea5-054328b444e9" />
 
+## Build 
+<img width="1200" height="1599" alt="WhatsApp Image 2026-06-11 at 12 53 13 AM" src="https://github.com/user-attachments/assets/6255658c-4204-409f-a6ff-bed1b08108fa" />
+<img width="1200" height="1599" alt="WhatsApp Image 2026-06-11 at 12 53 09 AM" src="https://github.com/user-attachments/assets/39e7c1a8-8c3b-4b53-8cf1-972bba49ff10" />
+<img width="1599" height="1200" alt="WhatsApp Image 2026-06-11 at 12 53 09 AM (1)" src="https://github.com/user-attachments/assets/45a64a28-2d25-4c47-a19e-69329ac33a84" />
+<img width="1599" height="1200" alt="WhatsApp Image 2026-06-11 at 12 53 10 AM" src="https://github.com/user-attachments/assets/2c3b094d-316d-4266-ac78-d5d87f98dfee" />
+<img width="1599" height="1200" alt="WhatsApp Image 2026-06-11 at 12 53 10 AM (2)" src="https://github.com/user-attachments/assets/0a57fa3a-4f54-431c-af28-24bd68c36d7a" />
+<img width="1599" height="1200" alt="WhatsApp Image 2026-06-11 at 12 53 10 AM (3)" src="https://github.com/user-attachments/assets/e94293fb-1a9b-46e8-8b5b-3c5df778ee6b" />
+<img width="1200" height="1599" alt="WhatsApp Image 2026-06-11 at 12 53 11 AM (1)" src="https://github.com/user-attachments/assets/f8840a06-242f-4d7c-a8a9-b04f4a2cc10e" />
+<img width="1200" height="1599" alt="WhatsApp Image 2026-06-11 at 12 53 11 AM (2)" src="https://github.com/user-attachments/assets/112f093d-a768-4194-904b-e667993e92f4" />
+https://drive.google.com/file/d/1lwMrrw48pk1E9WbPoM3kms2gutVuB4EL/view?usp=sharing
+
 ## BOM 
 | Name                      | Purpose                         | Cost Per Item (USD) | Quantity | Total (USD) | Link | Distributor     |
 |---------------------------|---------------------------------|---------------------|----------|-------------|------|-----------------|
